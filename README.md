@@ -109,6 +109,18 @@ export default thiago;
 <img src="https://img.shields.io/badge/In%20Progress-2563eb?style=flat-square"/>
 </td>
 </tr>
+<tr>
+<td width="100%" colspan="2" valign="top" align="center">
+<h3>📊 Machine Learning - Online Retail</h3>
+<p>Regression project comparing Linear and Ridge models to predict customer repurchase value from RFM features, built for a Machine Learning course at SATC.</p>
+<a href="https://github.com/thiagodallo/machine-learning-online-retail" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-1e3a8a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Team%20Project-0d1117?style=flat-square&logo=github&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/In%20Progress-2563eb?style=flat-square"/>
+</td>
+</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2563eb,100:0d1117&height=3&width=100%25" width="100%"/>
