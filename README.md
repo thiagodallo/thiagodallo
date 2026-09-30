@@ -90,14 +90,16 @@ export default thiago;
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-<h3>⚽ Sports Betting ML</h3>
-<p>Machine Learning system to estimate match probabilities in football, based on historical data.</p>
-<img src="https://img.shields.io/badge/Private%20Work%20In%20Progress-0d1117?style=for-the-badge&logo=github&logoColor=60A5FA"/>
+<h3>📚 Library API - REST + gRPC</h3>
+<p>Library API exposing the same use cases over REST and gRPC, layered as Presentation, Domain and Repository, with business rules kept in a single place.</p>
+<a href="https://github.com/thiagodallo/biblioteca-api" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br/><br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-1e3a8a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-0d1117?style=flat-square&logo=dotnet&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/gRPC-1e3a8a?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/Team%20Project-0d1117?style=flat-square&logo=github&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/In%20Progress-2563eb?style=flat-square"/>
+<img src="https://img.shields.io/badge/Completed-1d4ed8?style=flat-square"/>
 </td>
 <td width="50%" valign="top" align="center">
 <h3>🌐 Integrative Project - LavaTech</h3>
