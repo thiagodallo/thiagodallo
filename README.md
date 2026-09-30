@@ -114,7 +114,7 @@ export default thiago;
 <tr>
 <td width="100%" colspan="2" valign="top" align="center">
 <h3>📊 Machine Learning - Online Retail</h3>
-<p>Regression project comparing Linear and Ridge models to predict customer repurchase value from RFM features, built for a Machine Learning course at SATC.</p>
+<p>Predicts whether a customer will buy again and how much they will spend, using RFM features. Compares Logistic Regression, KNN, Ridge and Linear models against an RFM baseline, with a profit scenario for the campaign threshold. Built for a Machine Learning course at SATC.</p>
 <a href="https://github.com/thiagodallo/machine-learning-online-retail" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Machine%20Learning-1e3a8a?style=flat-square"/>
