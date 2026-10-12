@@ -25,7 +25,7 @@ const thiago = {
   shift: "Night",
   position: "Import Assistant - Asibras S.A",
 
-  mainStack: ["Python", "PostgreSQL", "HTML", "CSS", "JavaScript", "React"],
+  mainStack: ["Python", "TypeScript", "JavaScript", "React", "Next.js", "Node.js", "PostgreSQL"],
 
   philosophy: "LEARN, BUILD, EVOLVE",
 };
@@ -47,7 +47,7 @@ export default thiago;
 <h2 align="center">⚡ <code>tech-stack.json</code></h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,postgres,html,css,js,react,nodejs,git,github,vscode,linux,figma&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,cs,react,nextjs,nodejs,express,fastapi,postgres,prisma,docker,html,css,tailwind,git,github,vscode,linux,figma&theme=dark&perline=10" />
 </p>
 
 <h2 align="center">🛠️ <code>tools.env</code></h2>
@@ -57,6 +57,8 @@ export default thiago;
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=60A5FA"/>
 </p>
