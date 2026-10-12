@@ -105,16 +105,30 @@ export default thiago;
 </td>
 <td width="50%" valign="top" align="center">
 <h3>🌐 Integrative Project - LavaTech</h3>
-<p>A complete web system (LavaTech) developed as part of an integrative project at SATC as a team.</p>
-<img src="https://img.shields.io/badge/Private%20Work%20In%20Progress-0d1117?style=for-the-badge&logo=github&logoColor=60A5FA"/>
+<p>Internal web system for scheduling, payments, stock and quality control at Eco Planet, a car detailing shop in Criciúma. The database itself refuses two active bookings for the same washing bay and time.</p>
+<a href="https://github.com/thiagodallo/lavatech" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br/><br/>
-<img src="https://img.shields.io/badge/Full%20Stack-1e3a8a?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/Team%20Project-0d1117?style=flat-square&logo=github&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/In%20Progress-2563eb?style=flat-square"/>
 </td>
 </tr>
 <tr>
-<td width="100%" colspan="2" valign="top" align="center">
+<td width="50%" valign="top" align="center">
+<h3>📦 Entrega Certa - Backend API</h3>
+<p>REST API that tracks assignment submissions for a class: who delivered, when, whether it was on time and the highest grade each submission can get. One late rule applies to every student, and graded work can no longer be replaced. Stage 1 of the Backend course final project at SATC.</p>
+<a href="https://github.com/thiagodallo/entrega-certa" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Team%20Project-0d1117?style=flat-square&logo=github&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/In%20Progress-2563eb?style=flat-square"/>
+</td>
+<td width="50%" valign="top" align="center">
 <h3>📊 Machine Learning - Online Retail</h3>
 <p>Predicts whether a customer will buy again and how much they will spend, using RFM features. Compares Logistic Regression, KNN, Ridge and Linear models against an RFM baseline, with a profit scenario for the campaign threshold. Built for a Machine Learning course at SATC.</p>
 <a href="https://github.com/thiagodallo/machine-learning-online-retail" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -123,6 +137,18 @@ export default thiago;
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/Team%20Project-0d1117?style=flat-square&logo=github&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/In%20Progress-2563eb?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2" valign="top" align="center">
+<h3>🍝 Lasanholay - Event Sales System</h3>
+<p>Sales and delivery logistics system for Lasanholay, the event of Chapter No. 125 of the Order of DeMolay in Criciúma. Covers sales, payments and deliveries.</p>
+<img src="https://img.shields.io/badge/Private%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=60A5FA"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=60A5FA"/>
 </td>
 </tr>
 </table>
