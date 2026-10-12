@@ -139,18 +139,6 @@ export default thiago;
 <img src="https://img.shields.io/badge/In%20Progress-2563eb?style=flat-square"/>
 </td>
 </tr>
-<tr>
-<td width="100%" colspan="2" valign="top" align="center">
-<h3>🍝 Lasanholay - Event Sales System</h3>
-<p>Sales and delivery logistics system for Lasanholay, the event of Chapter No. 125 of the Order of DeMolay in Criciúma. Covers sales, payments and deliveries.</p>
-<img src="https://img.shields.io/badge/Private%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=60A5FA"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=60A5FA"/>
-</td>
-</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2563eb,100:0d1117&height=3&width=100%25" width="100%"/>
