@@ -163,7 +163,7 @@ export default thiago;
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=520&lines=%3E+session+closed+%E2%80%94+thanks+for+visiting;%3E+connection+open+%E2%80%94+let's+build+something"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=520&lines=%3E+session+closed%2C+thanks+for+visiting;%3E+connection+open%2C+let's+build+something"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0d1117,50:1d4ed8,100:0d1117"/>
 
